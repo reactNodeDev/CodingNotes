@@ -7,12 +7,12 @@ import { Component, useEffect, useState } from "react";
  import styled from "styled-components"; 
 ```
 
-# --- how to change directory in cmd prompt --- //
+# --- how to change directory in cmd prompt
 - to go to a different drive just enter the drive name. for ex 'D:'
 - now type the folder name you wanna go to
 
 
-# --- how to install react ---
+# --- how to install react 
 - once you are in the desired folder in command prompt, type 'npx create-react-app *desired-app-name*'
 - now type 'npm start' to start the app development server in browser
 
@@ -20,13 +20,13 @@ import { Component, useEffect, useState } from "react";
 - jsx - html code inside javascript. 'jsx' stands for 'javascript xml'
 
 
-# ---------------------------------------- COMPONENTS ----------------------------------------------- 
+# ---- COMPONENTS
 - Components are functions which define a necessary part of the react code
 - Components' names must be declared with a capitalized letter so that react knows its a component
 - JSX - HTML code block inside a javascript function (which can also be returned by the functn) is called a JSX
 
 
-# -------------------------------- HOW TO ENABLE EMMET ABBREVIATION ------------------------------- 
+# ---- HOW TO ENABLE EMMET ABBREVIATION
 - to enable Emmet Abbreviation in '.js' files, go to 'settings.json' and add the following key and value to the parent object
 ```json
      "emmet.includeLanguages": {
