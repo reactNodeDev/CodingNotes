@@ -32,3 +32,4 @@
 ```
 
 - in Graphql, its upto us what kind of data we want from Graphql backend, in what shape and how
+- Graphql is actually a `replacement for redux`. thats cause Graphql has its own way of tracking the data

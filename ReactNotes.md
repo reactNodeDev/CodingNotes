@@ -37,7 +37,7 @@ import { Component, useEffect, useState } from "react";
  We must always return JSX (or anything) from a component or else we will get an error
 
 
-# --------------------------------------- Virtual DOM ------------------------------------ #
+# ---- Virtual DOM
 - React helps us to build a 'virtual DOM', which means it enables us to use javascript functions (aka components) inside the DOM of our webpages
 - Virtual DOM gives react a blueprint of how it should update the actual DOM
 
